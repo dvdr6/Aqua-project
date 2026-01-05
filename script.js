@@ -1,3 +1,4 @@
+<!--//Autorska własnosc dvdr6 Wszystkie prawa zastrzeżone.-->
 const cursor = document.querySelector('.custom-cursor');
 const follower = document.querySelector('.cursor-follower');
 
